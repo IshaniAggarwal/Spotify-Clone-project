@@ -24,8 +24,7 @@ A Spotify web player clone built using only HTML and CSS, with a responsive and 
 
 
 ## Screenshot
-
-![Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot](Screenshot.png)
 
 
 ## Learning Goals
