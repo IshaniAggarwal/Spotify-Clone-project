@@ -57,10 +57,12 @@ This project was created to practice:
  - [Font Awesome](https://fontawesome.com/) - for icons
  - [Google Fonts](https://fonts.google.com/) - for Montserrat typography
 
-##Feedback 
+## Feedback 
 
 I would love to hear your thoughts! Contact with me on:
+
 [LinkedIn](https://www.linkedin.com/in/ishani-aggarwal-643259320/)
+
 [GitHub](https://github.com/IshaniAggarwal)
 
  
